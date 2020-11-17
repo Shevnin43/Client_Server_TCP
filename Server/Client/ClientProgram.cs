@@ -119,7 +119,7 @@ namespace TCPClient
         /// </summary>
         private static void ProcessingIncomingMessage()
         {
-            while (ClientSocket?.Connected == true)
+            while (ClientSocket?.Connected == true || IncomingMessagesQueue.Any())
             {
                 try
                 {
