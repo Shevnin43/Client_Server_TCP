@@ -1,0 +1,8 @@
+D:\Projects\Client_Server_TCP\Server\General\bin\Release\netcoreapp3.1\General.deps.json
+D:\Projects\Client_Server_TCP\Server\General\bin\Release\netcoreapp3.1\General.dll
+D:\Projects\Client_Server_TCP\Server\General\bin\Release\netcoreapp3.1\General.pdb
+D:\Projects\Client_Server_TCP\Server\General\obj\Release\netcoreapp3.1\General.csprojAssemblyReference.cache
+D:\Projects\Client_Server_TCP\Server\General\obj\Release\netcoreapp3.1\General.AssemblyInfoInputs.cache
+D:\Projects\Client_Server_TCP\Server\General\obj\Release\netcoreapp3.1\General.AssemblyInfo.cs
+D:\Projects\Client_Server_TCP\Server\General\obj\Release\netcoreapp3.1\General.dll
+D:\Projects\Client_Server_TCP\Server\General\obj\Release\netcoreapp3.1\General.pdb

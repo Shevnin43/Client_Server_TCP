@@ -1,0 +1,14 @@
+D:\Projects\Client_Server_TCP\Server\Client\bin\Release\netcoreapp3.1\Client.exe
+D:\Projects\Client_Server_TCP\Server\Client\bin\Release\netcoreapp3.1\Client.deps.json
+D:\Projects\Client_Server_TCP\Server\Client\bin\Release\netcoreapp3.1\Client.runtimeconfig.json
+D:\Projects\Client_Server_TCP\Server\Client\bin\Release\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Projects\Client_Server_TCP\Server\Client\bin\Release\netcoreapp3.1\Client.dll
+D:\Projects\Client_Server_TCP\Server\Client\bin\Release\netcoreapp3.1\Client.pdb
+D:\Projects\Client_Server_TCP\Server\Client\bin\Release\netcoreapp3.1\General.dll
+D:\Projects\Client_Server_TCP\Server\Client\bin\Release\netcoreapp3.1\General.pdb
+D:\Projects\Client_Server_TCP\Server\Client\obj\Release\netcoreapp3.1\Client.csprojAssemblyReference.cache
+D:\Projects\Client_Server_TCP\Server\Client\obj\Release\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Projects\Client_Server_TCP\Server\Client\obj\Release\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Projects\Client_Server_TCP\Server\Client\obj\Release\netcoreapp3.1\Client.csproj.CopyComplete
+D:\Projects\Client_Server_TCP\Server\Client\obj\Release\netcoreapp3.1\Client.dll
+D:\Projects\Client_Server_TCP\Server\Client\obj\Release\netcoreapp3.1\Client.pdb
